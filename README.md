@@ -1,1 +1,1 @@
-# AI-Fruit-and-Vegetables-Classification
+# AI-Fruits-and-Vegetables-Classification
